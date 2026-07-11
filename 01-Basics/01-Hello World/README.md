@@ -2,9 +2,11 @@
 
 A simple Java program that prints "Hello, World!" to the console.
 
-## Run
+# Run
 
 ```bash
 javac HelloWorld.java
 java HelloWorld
 ```
+Output:
+Hello World

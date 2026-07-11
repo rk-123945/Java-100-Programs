@@ -15,10 +15,11 @@ javac PrintASCII.java
 java PrintASCII
 
 With `bodyHeight = 3` and `tailLength = 4`, the program outputs:
-
+```
  /\_/\ 
 ( o.o )
  |   | 
  |   | 
  |   | 
 (___.___)~~~~
+```
