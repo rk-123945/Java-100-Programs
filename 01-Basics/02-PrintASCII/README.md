@@ -6,8 +6,9 @@ Generates customizable ASCII cats using loops. You can adjust variables in the c
 
 # Features
 
-  Customizable Height: Use loops to make a regular cat or a long-cat.
-  Extendable Tail: Control how long the cat's tail is using standard Java loops.
+- **Customizable Height:** Use loops to make a regular cat or a long cat.
+- **Extendable Tail:** Control how long the cat's tail is using standard Java loops.
+
 
 ---
 # Run
